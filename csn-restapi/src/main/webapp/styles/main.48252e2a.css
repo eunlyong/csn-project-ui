@@ -49,7 +49,23 @@ body {
 	border-radius: .25em
 }
 .col-md-9_new
-	{
+{
 	
 	margin-top: 5px;
+}
+.nav-tabs_new {
+	background-color: #e5e5e5
+}
+.btn-default_new {
+	color: #000;
+	background-color:  #E0E0E0;
+	border-color: #ccc
+	
+}	
+
+.btn-default_new.active,.btn-default_new:active,.btn-default_new:focus,.btn-default_new:hover,.open .dropdown-toggle.btn-default_new
+	{
+	color: #333;
+	background-color: #C0C0C0;
+	border-color: #adadad
 }
